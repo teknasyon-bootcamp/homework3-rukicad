@@ -28,4 +28,3 @@ $postForm->render();
 echo "<hr>" . PHP_EOL;
 $getForm->render();
 echo "<hr>" . PHP_EOL;
-$lateForm->render();
